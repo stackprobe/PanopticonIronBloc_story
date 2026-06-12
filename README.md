@@ -1,1 +1,3 @@
-﻿[story/](story/)
+﻿# ストーリーはこちらです
+
+[story/](story/)
