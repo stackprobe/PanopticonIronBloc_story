@@ -1,0 +1,17 @@
+Character design information:
+Maryusha, female, 17 years old, former Belzanian refugee now living in Novorad, Avrora Federation special protected resident, early-stage life observation collaborator for the Central Planning Audit Department, protective older-sister presence, cautious and observant, no longer in immediate survival mode, guarded but gradually softening, quiet determination, still watches exits and people, learning to live safely without abandoning her past.
+
+Appearance information:
+late teenage face, pale winter complexion becoming healthier, slender underfed build with slightly recovering posture, narrow shoulders, faint dark circles under eyes, cold gray-green expressive eyes, sharp observant gaze looking slightly to the side, restrained mouth, dark ash-brown hair, uneven shoulder-length hair now cleaner and loosely tied back with a simple cloth tie or plain hair band, practical tidy-messy hairstyle, careful tense posture, one hand near a link terminal or small shoulder bag, clear readable silhouette, austere but newly stable appearance.
+
+Clothing information:
+Avrora settlement-period civilian winter clothes, clean practical clothing issued after migration, dark charcoal or deep gray-green winter coat, plain warm sweater, practical trousers, sturdy low winter boots, simple gloves, modest scarf, small resident ID badge or link card holder, slim Avrora link terminal, compact observation tablet or notebook for recording daily irregularities, small cloth shoulder bag retained from refugee days but repaired and clean, subtle contrast between new safe clothing and old guarded habits, no military styling, no weapon visible.
+
+Drawing style:
+anime character design sheet, visual novel character design, 2000s Japanese visual novel style, 2010s light novel illustration style, character reference sheet, full body, standing pose, neutral guarded pose, centered composition, full body visible from head to boots, white background, simple background, clean lineart, cel shading, expressive eyes, strong silhouette, character-focused composition, clear clothing details, stable face design, game development character design sheet.
+
+Negative elements:
+photorealistic, cinematic, movie poster style, realistic skin texture, dramatic lighting, shallow depth of field, photography style, hyper detailed background, military uniform, fantasy armor, sexy styling, exposed skin, exaggerated weapons, weapon brandished, combat pose, glamour, theatrical costume, dirty refugee rags, graphic injury, exaggerated pose, cropped body, cluttered background.
+
+[aspectratio: 1:3]
+[output: png]

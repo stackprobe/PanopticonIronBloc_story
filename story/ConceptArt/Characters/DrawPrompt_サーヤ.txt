@@ -1,0 +1,17 @@
+Character design information:
+Saya, female, early 30s, Avrora Federation Central Planning Audit Department specialist, central planning AI audit professional, calm and intelligent, practical and precise, analytical but not cold, composed focused expression, quietly reassuring, mature office-and-field worker in a highly organized socialist AI society.
+
+Appearance information:
+mature thoughtful face, restrained expression, dark gray or muted green expressive eyes, steady observant gaze, short dark hair, practical jaw-length or above-neck haircut, tidy but not fashionable, minimal ornament, average height, lean professional build, balanced posture, clear readable silhouette, looks competent and trustworthy.
+
+Clothing information:
+practical near-future administrative work clothes, dark green jacket as key visual element, simple shirt or knit top, practical trousers, low boots, compact work badge, slim data tablet or clipboard, small stylus, subtle abstract planning graph or red anomaly markers on tablet, restrained professional color palette, office-and-field audit worker design.
+
+Drawing style:
+anime character design sheet, visual novel character design, 2000s Japanese visual novel style, 2010s light novel illustration style, character reference sheet, full body, standing pose, neutral composed pose, centered composition, full body visible from head to boots, white background, simple background, clean lineart, cel shading, expressive eyes, strong silhouette, character-focused composition, clear clothing details, stable face design.
+
+Negative elements:
+photorealistic, cinematic, movie poster style, realistic skin texture, dramatic lighting, shallow depth of field, photography style, hyper detailed background, lab coat, cyberpunk excess, flashy neon, military styling, fantasy elements, exaggerated sci-fi equipment, exaggerated pose, cropped body, cluttered background.
+
+[aspectratio: 1:3]
+[output: png]

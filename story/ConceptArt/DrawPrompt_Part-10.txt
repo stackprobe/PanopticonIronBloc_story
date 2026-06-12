@@ -1,0 +1,18 @@
+Scene:
+Central Planning Bureau Novorad branch, glass-walled public office inside a library complex, large display showing city flows for food, medicine, transit, school, snow removal, and small red anomaly markers.
+
+Characters:
+Maryusha, 17 or 18, Avrora settlement-period design, pale winter complexion becoming healthier, slender recovering build, faint dark circles, cold gray-green observant eyes, dark ash-brown shoulder-length hair cleaner and loosely tied, dark charcoal or deep gray-green winter coat, plain sweater, practical trousers, low winter boots, modest scarf, resident ID badge, slim Avrora link terminal or observation tablet, repaired cloth shoulder bag, focused cautious posture.
+Saya, early 30s, mature thoughtful face, dark gray or muted green expressive eyes, steady observant gaze, short dark hair jaw-length or above-neck, lean professional build, dark green jacket, simple shirt or knit top, practical trousers, low boots, compact work badge, data tablet with planning graph and red anomaly markers, calm analytical expression.
+
+Composition:
+Character-focused composition, Saya pointing to small red anomaly markers on the large city-flow display, Maryusha studying the display with sharp attention, office background minimal, theme of life observation and AI audit, no overwhelming sci-fi spectacle.
+
+Visual style:
+anime illustration, Japanese visual novel style, 2000s visual novel illustration, early 2010s light novel illustration, character-focused composition, stable character design, character design consistency, clean lineart, cel shading, expressive eyes, strong silhouette, game character reference quality.
+
+Negative prompt:
+photorealistic, realistic skin texture, cinematic, movie poster style, dramatic lighting, shallow depth of field, photography style, hyper detailed background, overly complex background, painterly realism, realistic rendering, 3D render, CGI, film still, concept art painting, cyberpunk neon, hologram overload, lab coat, military command center, changed hairstyle, changed hair color, changed eye color.
+
+[size: 800x600]
+[output: png]

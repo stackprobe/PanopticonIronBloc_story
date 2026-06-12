@@ -1,0 +1,18 @@
+Scene:
+Snowy border zone at night after the crossing, torn wire fence behind them, distant lights, rescue vehicle headlights low in the snow, unknown Avrora rescuers approaching with medical blanket.
+
+Characters:
+Maryusha, 17, Belzania period design, pale winter skin, slender underfed build, cold gray-green eyes losing focus, dark ash-brown uneven shoulder-length hair loosely tied with worn cloth, patched dark oversized coat torn by barbed wire, frayed scarf, fingerless gloves, heavy boots, wounded shoulder and side covered by cloth, collapsed but still reaching for Snezhana.
+Snezhana, 13, Belzania period design, pale winter skin, small slight underfed build, pale blue-gray tearful eyes, light ash-blonde chin-length slightly tangled hair, worn patched oversized coat, dark knit hat, faded scarf, scuffed boots, kneeling in snow, holding Maryusha's hand tightly.
+
+Composition:
+Character-focused composition, Snezhana kneeling beside fallen Maryusha, their hands connected at the center, Avrora rescuers as simple calm silhouettes in the background, border fence and snow kept minimal, emotional rescue moment, clear readable silhouettes.
+
+Visual style:
+anime illustration, Japanese visual novel style, 2000s visual novel illustration, early 2010s light novel illustration, character-focused composition, stable character design, character design consistency, clean lineart, cel shading, expressive eyes, strong silhouette, game character reference quality.
+
+Negative prompt:
+photorealistic, realistic skin texture, cinematic, movie poster style, dramatic lighting, shallow depth of field, photography style, hyper detailed background, overly complex background, painterly realism, realistic rendering, 3D render, CGI, film still, concept art painting, gore, graphic wounds, battlefield spectacle, heroic military rescue poster, changed hairstyle, changed hair color, changed eye color.
+
+[size: 800x600]
+[output: png]

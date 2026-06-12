@@ -1,0 +1,19 @@
+Scene:
+Clean Avrora hospital room, white sheets, soft medical devices, warm recovery meal on a tray, calm winter light through a window, first meeting with Irina after Maryusha wakes.
+
+Characters:
+Maryusha, 17, early Avrora hospital transition, same face and hair as Belzania design, pale recovering complexion, dark ash-brown uneven shoulder-length hair loosely tied, cold gray-green guarded eyes, bandaged shoulder and side, simple clean hospital clothes, tense hand near medical tube.
+Snezhana, 13, early Avrora hospital transition, same face and hair as Belzania design, pale blue-gray eyes, light ash-blonde chin-length clean brushed hair, clean gray recovery clothes, faint bruised cheek, worried small smile beside the bed.
+Irina, 26, gentle adult woman, soft oval face, warm hazel or soft brown eyes, medium chestnut-brown shoulder-length neat hair or low loose bun, light-gray or soft blue public-service coat, simple blouse or turtleneck, ID badge, slim tablet, calm open posture.
+
+Composition:
+Character-focused composition, Maryusha half-awake in bed looking guarded, Snezhana close at bedside, Irina standing at respectful distance without blocking the exit, hospital background minimal, quiet first contact, visible contrast between safety and distrust.
+
+Visual style:
+anime illustration, Japanese visual novel style, 2000s visual novel illustration, early 2010s light novel illustration, character-focused composition, stable character design, character design consistency, clean lineart, cel shading, expressive eyes, strong silhouette, game character reference quality.
+
+Negative prompt:
+photorealistic, realistic skin texture, cinematic, movie poster style, dramatic lighting, shallow depth of field, photography style, hyper detailed background, overly complex background, painterly realism, realistic rendering, 3D render, CGI, film still, concept art painting, hospital horror, lab coat focus, dramatic surgery scene, changed hairstyle, changed hair color, changed eye color.
+
+[size: 800x600]
+[output: png]

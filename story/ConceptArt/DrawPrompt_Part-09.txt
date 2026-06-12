@@ -1,0 +1,19 @@
+Scene:
+Belzanian military headquarters negotiation room, ornate marble floor, high ceiling, chandelier, military flags, long polished table, snow outside the tall windows, diplomatic meeting about refugees and sovereignty.
+
+Characters:
+Avrora foreign minister, adult civilian statesman, restrained dark formal suit, calm posture, simple folder and translation terminal, no military decoration.
+Belzanian foreign affairs director, elderly military official, decorated uniform, medals, tired stern face, rigid posture, hand clenched on documents.
+Several aides and interpreters in the background, simplified silhouettes, formal and restrained.
+
+Composition:
+Character-focused composition, two officials facing each other across a long table, Avrora side calm and undecorated, Belzanian side surrounded by military grandeur, focus on opposing hands, documents, faces, and the gap across the table, background ornate but not dominant.
+
+Visual style:
+anime illustration, Japanese visual novel style, 2000s visual novel illustration, early 2010s light novel illustration, character-focused composition, stable character design, character design consistency, clean lineart, cel shading, expressive eyes, strong silhouette, game character reference quality.
+
+Negative prompt:
+photorealistic, realistic skin texture, cinematic, movie poster style, dramatic lighting, shallow depth of field, photography style, hyper detailed background, overly complex background, painterly realism, realistic rendering, 3D render, CGI, film still, concept art painting, war room spectacle, propaganda poster, caricature villain, action scene.
+
+[size: 800x600]
+[output: png]

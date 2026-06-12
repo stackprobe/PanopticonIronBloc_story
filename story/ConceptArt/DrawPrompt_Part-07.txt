@@ -1,0 +1,19 @@
+Scene:
+Novorad apartment living room on the first day, clean furnished home, link terminal showing 65,000 rubles, winter city roofs outside the window, two bedrooms visible through simple hallway.
+
+Characters:
+Maryusha, 17 or 18, Avrora settlement-period design, pale winter complexion becoming healthier, slender recovering build, faint dark circles, cold gray-green eyes, dark ash-brown shoulder-length hair cleaner and loosely tied, dark charcoal or deep gray-green winter coat, plain warm sweater, practical trousers, low winter boots, modest scarf, resident ID badge, repaired cloth shoulder bag, holding a slim Avrora link terminal with stunned guarded expression.
+Snezhana, 13, Avrora settlement-period design, pale blue-gray eyes, light ash-blonde chin-length clean brushed hair, warm light-colored winter coat slightly too large, soft knitted hat or hood, muted scarf, sweater dress or long knit top over leggings, sturdy clean boots, small school satchel, amazed expression.
+Irina, 26, gentle adult woman, chestnut-brown neat hair or low loose bun, warm hazel or brown eyes, light-gray or soft blue public-service coat, ID badge, tablet, calm explanatory posture.
+
+Composition:
+Character-focused composition, Maryusha and Snezhana standing close in the apartment, both staring at the link terminal balance, Irina beside them explaining gently, home interior minimal and clean, strong contrast between guarded disbelief and safe domestic space.
+
+Visual style:
+anime illustration, Japanese visual novel style, 2000s visual novel illustration, early 2010s light novel illustration, character-focused composition, stable character design, character design consistency, clean lineart, cel shading, expressive eyes, strong silhouette, game character reference quality.
+
+Negative prompt:
+photorealistic, realistic skin texture, cinematic, movie poster style, dramatic lighting, shallow depth of field, photography style, hyper detailed background, overly complex background, painterly realism, realistic rendering, 3D render, CGI, film still, concept art painting, luxury real estate ad, tech commercial, cluttered apartment, changed hairstyle, changed hair color, changed eye color.
+
+[size: 800x600]
+[output: png]

@@ -1,0 +1,17 @@
+Character design information:
+Snezhana, female, 13 years old, former Belzanian refugee now living in Novorad, Avrora Federation special protected resident, school-age girl adapting to peaceful city life, gentle noncombatant, soft vulnerable presence, kind and curious, noticeably more relaxed than before, still timid with large sounds and unfamiliar adults, early trust in Avrora, protected by Maryusha but beginning to have her own daily life.
+
+Appearance information:
+young teenage face, pale winter complexion becoming healthier, small slight build, narrow small shoulders, clear pale blue-gray expressive eyes, large restrained eyes, open curious gaze with a faint anxious softness, light ash-blonde or pale brown hair, chin-length or just-below-chin hair now clean and gently brushed, soft loose strands around the face, small sincere smile or quiet hopeful expression, modest inward posture with slightly relaxed shoulders, toes slightly turned inward, clear readable silhouette, fragile but warmer appearance.
+
+Clothing information:
+Avrora settlement-period school and civilian winter clothes, clean practical clothing issued after migration, warm light-colored winter coat slightly too large but not ragged, soft knitted hat or simple hood, clean scarf in muted winter color with a small warm accent, simple sweater dress or long knit top over leggings, sturdy clean winter boots, mittens or soft gloves, small school satchel or simple backpack, slim Avrora link terminal, notebook or colored pencils, optional small wrapped slice of white berry cake as a memory of Belina, clothing is modest, fully covered, safe, poor-refugee repairs replaced by careful new practicality.
+
+Drawing style:
+anime character design sheet, visual novel character design, 2000s Japanese visual novel style, 2010s light novel illustration style, character reference sheet, full body, standing pose, neutral timid-but-hopeful pose, centered composition, full body visible from head to boots, white background, simple background, clean lineart, cel shading, expressive eyes, strong silhouette, character-focused composition, clear clothing details, stable face design, game development character design sheet.
+
+Negative elements:
+photorealistic, cinematic, movie poster style, realistic skin texture, dramatic lighting, shallow depth of field, photography style, hyper detailed background, glamour, magical girl outfit, decorative school uniform, weapon, combat pose, sexualized styling, exposed skin, graphic injury, dirty refugee rags, exaggerated cuteness, exaggerated pose, cropped body, cluttered background.
+
+[aspectratio: 1:3]
+[output: png]

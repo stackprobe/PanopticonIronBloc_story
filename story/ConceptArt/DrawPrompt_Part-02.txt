@@ -1,0 +1,18 @@
+Scene:
+Ruined factory shelter after dusk, Snezhana returns muddy and injured, crushed paper cake box in her hands, Maryusha kneels in front of her, small fire nearby, cold concrete floor, broken office walls.
+
+Characters:
+Maryusha, 17, Belzania period design, pale winter skin, slender underfed build, faint dark circles, cold gray-green eyes, dark ash-brown uneven shoulder-length hair loosely tied with worn cloth, patched dark oversized coat, faded wool sweater, frayed scarf, fingerless gloves, patched trousers, heavy boots, small cloth shoulder bag, clenched hand, shocked protective expression.
+Snezhana, 13, Belzania period design, pale winter skin, small slight underfed build, pale blue-gray tearful eyes, light ash-blonde chin-length slightly tangled hair, worn patched oversized coat, dark knit hat, faded scarf, scuffed boots, muddy sleeves, bruised cheek, split lip, holding a crushed paper box.
+
+Composition:
+Character-focused composition, Maryusha kneeling at Snezhana's eye level, Snezhana offering the ruined cake box, close emotional distance, quiet pain, protective embrace about to happen, background only enough to show the ruined factory shelter.
+
+Visual style:
+anime illustration, Japanese visual novel style, 2000s visual novel illustration, early 2010s light novel illustration, character-focused composition, stable character design, character design consistency, clean lineart, cel shading, expressive eyes, strong silhouette, game character reference quality.
+
+Negative prompt:
+photorealistic, realistic skin texture, cinematic, movie poster style, dramatic lighting, shallow depth of field, photography style, hyper detailed background, overly complex background, painterly realism, realistic rendering, 3D render, CGI, film still, concept art painting, action battle scene, gore, sexualized child, exaggerated injury, changed hairstyle, changed hair color, changed eye color.
+
+[size: 800x600]
+[output: png]

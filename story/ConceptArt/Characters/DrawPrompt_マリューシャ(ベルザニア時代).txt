@@ -1,0 +1,17 @@
+Character design information:
+Maryusha, female, 17 years old, refugee girl from a ruined cold Eastern European country, slender and underfed, tense and resilient, protective older-sister presence, wary and observant, distrustful controlled expression, tired eyes older than her age, forced maturity, guarded tenderness, survives by fleeing, hiding, watching, and making hard decisions.
+
+Appearance information:
+late teenage face, pale winter skin, narrow shoulders, underfed slim body, careful tense posture, faint dark circles under eyes, chapped lips, small healing scratches on hands, cold gray-green expressive eyes, sharp guarded gaze looking slightly to the side, dark ash-brown hair, uneven shoulder-length haircut, messy practical hair, loosely tied back with a worn strip of cloth, clear readable silhouette, austere refugee appearance.
+
+Clothing information:
+worn layered winter refugee clothing from Belzania, patched dark coat too large for her, faded wool sweater, frayed scarf, fingerless gloves, patched trousers, heavy practical boots, small cloth shoulder bag, soot stains, mud stains, repaired seams, years of use, small utility knife hidden at belt but not brandished, poverty and cold-weather practicality.
+
+Drawing style:
+anime character design sheet, visual novel character design, 2000s Japanese visual novel style, 2010s light novel illustration style, character reference sheet, full body, standing pose, neutral guarded pose, centered composition, full body visible from head to boots, white background, simple background, clean lineart, cel shading, expressive eyes, strong silhouette, character-focused composition, clear clothing details, stable face design.
+
+Negative elements:
+photorealistic, cinematic, movie poster style, realistic skin texture, dramatic lighting, shallow depth of field, photography style, hyper detailed background, military uniform, fantasy armor, sexy styling, exaggerated weapons, weapon brandished, combat pose, glamour, theatrical costume, exaggerated pose, cropped body, cluttered background.
+
+[aspectratio: 1:3]
+[output: png]

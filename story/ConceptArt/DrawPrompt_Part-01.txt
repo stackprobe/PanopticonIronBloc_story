@@ -1,0 +1,18 @@
+Scene:
+Ruined Belzanian factory office at night, small fire in the corner, two opened cans, thin bean soup, cardboard over broken windows, overturned locker as a barricade, cold abandoned industrial shelter.
+
+Characters:
+Maryusha, 17, Belzania period design, pale winter skin, slender underfed build, faint dark circles, cold gray-green eyes, sharp guarded sideward gaze, dark ash-brown uneven shoulder-length hair loosely tied with worn cloth, patched dark oversized coat, faded wool sweater, frayed scarf, fingerless gloves, patched trousers, heavy boots, small cloth shoulder bag.
+Snezhana, 13, Belzania period design, pale winter skin, small slight underfed build, pale blue-gray eyes, light ash-blonde chin-length slightly tangled hair, worn patched oversized coat, dark knit hat, faded scarf, dress or long sweater over leggings, scuffed boots.
+
+Composition:
+Character-focused composition, Maryusha sitting near the entrance in a protective watchful pose, Snezhana close beside the fire holding a small bowl, quiet relief after danger, tense but warm sister-like relationship, minimal ruined factory background, clear silhouettes, expressive eyes.
+
+Visual style:
+anime illustration, Japanese visual novel style, 2000s visual novel illustration, early 2010s light novel illustration, character-focused composition, stable character design, character design consistency, clean lineart, cel shading, expressive eyes, strong silhouette, game character reference quality.
+
+Negative prompt:
+photorealistic, realistic skin texture, cinematic, movie poster style, dramatic lighting, shallow depth of field, photography style, hyper detailed background, overly complex background, painterly realism, realistic rendering, 3D render, CGI, film still, concept art painting, action battle scene, gore, military glamour, sexy styling, changed hairstyle, changed hair color, changed eye color.
+
+[size: 800x600]
+[output: png]

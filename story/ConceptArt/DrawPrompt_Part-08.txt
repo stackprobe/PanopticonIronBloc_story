@@ -1,0 +1,19 @@
+Scene:
+Snowy Novorad park after visiting the history museum, quiet pond, children making a snowman in the distance, public record exhibition remembered through a small brochure in Maryusha's hand.
+
+Characters:
+Maryusha, 17 or 18, Avrora settlement-period design, pale winter complexion becoming healthier, slender recovering build, faint dark circles, cold gray-green eyes, dark ash-brown shoulder-length hair cleaner and loosely tied, dark charcoal or deep gray-green winter coat, plain sweater, practical trousers, low winter boots, modest scarf, resident ID badge, repaired cloth shoulder bag, holding a museum brochure, conflicted expression.
+Snezhana, 13, Avrora settlement-period design, pale blue-gray eyes, light ash-blonde chin-length clean brushed hair, warm light-colored winter coat slightly too large, soft knitted hat or hood, muted scarf, sweater dress or long knit top over leggings, clean boots, school satchel, quiet thoughtful posture.
+Irina, 26, chestnut-brown neat hair or low loose bun, warm hazel or brown eyes, light-gray or soft blue public-service coat, ID badge, tablet or document folder, calm serious expression.
+
+Composition:
+Character-focused composition, Maryusha standing slightly apart and looking down at the brochure, Irina facing her with calm explanation, Snezhana between them listening, snowy park background minimal, distant children as small soft shapes, theme of intervention and restraint shown through restrained body language.
+
+Visual style:
+anime illustration, Japanese visual novel style, 2000s visual novel illustration, early 2010s light novel illustration, character-focused composition, stable character design, character design consistency, clean lineart, cel shading, expressive eyes, strong silhouette, game character reference quality.
+
+Negative prompt:
+photorealistic, realistic skin texture, cinematic, movie poster style, dramatic lighting, shallow depth of field, photography style, hyper detailed background, overly complex background, painterly realism, realistic rendering, 3D render, CGI, film still, concept art painting, propaganda poster, battlefield flashback, heavy exposition text, changed hairstyle, changed hair color, changed eye color.
+
+[size: 800x600]
+[output: png]

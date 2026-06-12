@@ -1,0 +1,17 @@
+Character design information:
+Snezhana, female, 13 years old, refugee girl from a ruined cold Eastern European country, small and slight, physically weak, gentle noncombatant, soft vulnerable presence, kind but anxious expression, hopeful sadness, dependent on Maryusha but not helpless in spirit, fragile warmth under hardship.
+
+Appearance information:
+young teenage face, pale winter skin, underfed slight build, narrow small shoulders, clear pale blue-gray expressive eyes, large restrained eyes, open and worried gaze, light ash-blonde or pale brown hair, chin-length or just-below-chin hair, soft slightly tangled hair, loose strands around the face, faint bruises or healing marks, subtle small scar or split mark near the lip, modest inward posture, toes slightly turned inward, clear readable silhouette.
+
+Clothing information:
+layered hand-me-down winter refugee clothes from Belzania, patched oversized coat, knitted hat or worn hood, faded scarf wrapped carefully, simple dress or long sweater over leggings, scuffed boots, worn fabric, visible repairs, muted winter colors with a small warm accent, small crushed paper box or modest sweet box held close to chest, poor but carefully kept clothing.
+
+Drawing style:
+anime character design sheet, visual novel character design, 2000s Japanese visual novel style, 2010s light novel illustration style, character reference sheet, full body, standing pose, neutral timid pose, centered composition, full body visible from head to boots, white background, simple background, clean lineart, cel shading, expressive eyes, strong silhouette, character-focused composition, clear clothing details, stable face design.
+
+Negative elements:
+photorealistic, cinematic, movie poster style, realistic skin texture, dramatic lighting, shallow depth of field, photography style, hyper detailed background, glamour, magical girl outfit, decorative school uniform, weapon, combat pose, sexualized styling, graphic injury, exaggerated cuteness, exaggerated pose, cropped body, cluttered background.
+
+[aspectratio: 1:3]
+[output: png]

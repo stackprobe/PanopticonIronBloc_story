@@ -1,0 +1,18 @@
+Scene:
+False free-meal warehouse near the battlefield, long tables, gray soup bowls, hard ration blocks, armed soldiers blocking exits, old crates stacked near a high ventilation duct.
+
+Characters:
+Maryusha, 17, Belzania period design, pale winter skin, slender underfed build, cold gray-green eyes, dark ash-brown uneven shoulder-length hair loosely tied with worn cloth, patched dark oversized coat, frayed scarf, fingerless gloves, heavy boots, small cloth shoulder bag, alert escape-focused posture.
+Snezhana, 13, Belzania period design, pale winter skin, small slight underfed build, pale blue-gray eyes, light ash-blonde chin-length slightly tangled hair, worn patched oversized coat, dark knit hat, faded scarf, scuffed boots, frightened but trusting expression, gripping Maryusha's sleeve.
+
+Composition:
+Character-focused composition, Maryusha shielding Snezhana beside a table, Maryusha's gaze fixed on the stacked crates and ventilation duct, soldiers and frightened refugees blurred as simple background shapes, tension before escape, no heroic battle pose.
+
+Visual style:
+anime illustration, Japanese visual novel style, 2000s visual novel illustration, early 2010s light novel illustration, character-focused composition, stable character design, character design consistency, clean lineart, cel shading, expressive eyes, strong silhouette, game character reference quality.
+
+Negative prompt:
+photorealistic, realistic skin texture, cinematic, movie poster style, dramatic lighting, shallow depth of field, photography style, hyper detailed background, overly complex background, painterly realism, realistic rendering, 3D render, CGI, film still, concept art painting, explosion, gore, heroic action poster, military fetish, changed hairstyle, changed hair color, changed eye color.
+
+[size: 800x600]
+[output: png]

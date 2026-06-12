@@ -1,0 +1,18 @@
+Scene:
+Night in the Novorad apartment, warm room behind Maryusha, cold window glass, quiet snowy city outside, link terminal on the table with two open records: AI audit cooperation course and Belzania aid public records.
+
+Characters:
+Maryusha, 17 or 18, Avrora settlement-period design, pale winter complexion becoming healthier, slender recovering build, faint dark circles, cold gray-green reflective eyes, dark ash-brown shoulder-length hair cleaner and loosely tied, plain warm sweater without outdoor coat, practical trousers, simple scarf nearby, resident ID badge or link card holder on the table, repaired cloth shoulder bag in the room, hand touching the cold window.
+Snezhana, 13, Avrora settlement-period design, pale blue-gray eyes, light ash-blonde chin-length clean brushed hair, warm indoor clothes or sweater dress over leggings, small school notebook and pencil nearby, sleeping or quietly resting in the background, safe domestic presence.
+
+Composition:
+Character-focused composition, Maryusha at the window with her reflection visible in the glass, warm apartment interior behind her, sleeping Snezhana softly in the background, link terminal glow on the table, two unresolved choices shown visually, quiet internal conflict, minimal background.
+
+Visual style:
+anime illustration, Japanese visual novel style, 2000s visual novel illustration, early 2010s light novel illustration, character-focused composition, stable character design, character design consistency, clean lineart, cel shading, expressive eyes, strong silhouette, game character reference quality.
+
+Negative prompt:
+photorealistic, realistic skin texture, cinematic, movie poster style, dramatic lighting, shallow depth of field, photography style, hyper detailed background, overly complex background, painterly realism, realistic rendering, 3D render, CGI, film still, concept art painting, melodramatic poster, cyberpunk neon, horror mood, changed hairstyle, changed hair color, changed eye color.
+
+[size: 800x600]
+[output: png]

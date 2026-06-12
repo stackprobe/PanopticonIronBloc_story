@@ -1,0 +1,17 @@
+Character design information:
+Irina, female, 26 years old, Avrora Federation Settlement Support Bureau staff member, civilian public-service worker, gentle adult woman, calm and approachable, safe first contact for refugees, warm but not sentimental, patient expression, sincere small smile, clean and well-rested, healthy build, ordinary humane dignity.
+
+Appearance information:
+adult youthful face, soft oval face, warm hazel or soft brown expressive eyes, attentive gaze, medium chestnut-brown hair, shoulder-length soft neat hair or low loose bun, a few loose strands framing the face, natural eyebrows, relaxed shoulders, average height, slim-to-average healthy body type, non-threatening open posture, clear readable silhouette.
+
+Clothing information:
+prosperous socialist future civilian work clothes, understated public-service design, warm light-gray or soft blue winter coat, simple blouse or turtleneck, knee-length skirt or practical trousers, comfortable low boots, gloves, small official ID badge, slim tablet-like link terminal, document folder or small thermos, practical and humane design.
+
+Drawing style:
+anime character design sheet, visual novel character design, 2000s Japanese visual novel style, 2010s light novel illustration style, character reference sheet, full body, standing pose, neutral relaxed pose, centered composition, full body visible from head to boots, white background, simple background, clean lineart, cel shading, expressive eyes, strong silhouette, character-focused composition, clear clothing details, stable face design.
+
+Negative elements:
+photorealistic, cinematic, movie poster style, realistic skin texture, dramatic lighting, shallow depth of field, photography style, hyper detailed background, luxury fashion, military uniform, sci-fi armor, lab coat, fantasy elements, cyberpunk neon, exaggerated pose, cropped body, cluttered background.
+
+[aspectratio: 1:3]
+[output: png]

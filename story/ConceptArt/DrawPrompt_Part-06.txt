@@ -1,0 +1,19 @@
+Scene:
+Avrora public dining hall, warm lights, quiet tables, white birthday cake with eighteen candles, small gentle applause, first safe birthday celebration.
+
+Characters:
+Maryusha, 18, Avrora settlement-period design, pale winter complexion becoming healthier, slender recovering build, faint dark circles, cold gray-green eyes softening, dark ash-brown shoulder-length hair cleaner and loosely tied with simple cloth tie or plain hair band, dark charcoal or deep gray-green winter coat, plain warm sweater, practical trousers, low winter boots, modest scarf, small resident ID badge, repaired cloth shoulder bag.
+Snezhana, 13, Avrora settlement-period design, pale winter complexion becoming healthier, small slight build, pale blue-gray eyes, light ash-blonde chin-length clean brushed hair, warm light-colored winter coat slightly too large, soft knitted hat or hood, muted scarf, sweater dress or long knit top over leggings, sturdy clean winter boots, small school satchel.
+Irina, 26, gentle adult woman, chestnut-brown neat hair or low loose bun, warm hazel or brown eyes, light-gray or soft blue public-service coat, ID badge, tablet, patient smile.
+
+Composition:
+Character-focused composition, Maryusha seated before the cake with lowered eyes and restrained tears, Snezhana holding the cake plate proudly and tearfully, Irina nearby with gentle distance, dining hall simplified, emotional focus on faces, hands, cake, and sister-like bond.
+
+Visual style:
+anime illustration, Japanese visual novel style, 2000s visual novel illustration, early 2010s light novel illustration, character-focused composition, stable character design, character design consistency, clean lineart, cel shading, expressive eyes, strong silhouette, game character reference quality.
+
+Negative prompt:
+photorealistic, realistic skin texture, cinematic, movie poster style, dramatic lighting, shallow depth of field, photography style, hyper detailed background, overly complex background, painterly realism, realistic rendering, 3D render, CGI, film still, concept art painting, party poster, luxury banquet, exaggerated comedy, changed hairstyle, changed hair color, changed eye color.
+
+[size: 800x600]
+[output: png]
